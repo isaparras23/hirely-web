@@ -1,0 +1,5 @@
+<svg width="200" height="54" viewBox="0 0 200 54" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect x="0" y="4" width="46" height="46" rx="13" fill="#6AA7FF"/>
+  <path d="M15 15H22V24H29V15H36V39H29V30H22V39H15V15Z" fill="white"/>
+  <text x="58" y="35" fill="#1F2430" font-family="Inter, Arial, sans-serif" font-size="28" font-weight="700" letter-spacing="-0.8">Hirely</text>
+</svg>
